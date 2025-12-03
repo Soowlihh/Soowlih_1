@@ -1,4 +1,4 @@
-# Soowlih_1
+# Soowlihh
 
 # 💫 About Me:
 Building personal projects with React and AI integrations, improving my frontend engineering skills, and preparing for software engineering + frontend AI interviews. I’m also practicing data structures (Blind 75) and strengthening my problem-solving skills.<br>Beginner-friendly or intermediate web development projects, especially anything involving React, UI/UX, or integrating LLMs/APIs into interactive apps.<br>Leveling up my React state management, making cleaner component architecture, debugging tricky UI issues, and improving at reading complex codebases.<br>React, JavaScript fundamentals, Git/GitHub workflows, and backend basics with Node.js. Also learning how to work with LLMs, tools, agents, and building simple AI-powered features.<br>My learning journey, my recent projects, how I break down problems, or getting started with frontend development + AI.<br>I learn best by building projects fast, breaking them, and fixing them again. If I don’t understand something, I rebuild it until it makes sense.
